@@ -187,9 +187,9 @@ This project is developed for educational and learning purposes.
 
 ## 👩‍💻 Author
 
-**Rajeshwari Taneeru**
+**Taneeru Rajeshwari**
 
-- GitHub: https://github.com/Devika9511
+- GitHub: https://github.com/RajeshwariNarayana
 - LinkedIn: https://www.linkedin.com/in/rajeshwari-taneeru
 
 ---
