@@ -190,7 +190,7 @@ This project is developed for educational and learning purposes.
 **Taneeru Rajeshwari**
 
 - GitHub: https://github.com/RajeshwariNarayana
-- LinkedIn: https://www.linkedin.com/in/rajeshwari-taneeru
+- LinkedIn: https://www.linkedin.com/in/t-rajeshwari/
 
 ---
 
